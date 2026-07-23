@@ -17,10 +17,10 @@
 
 ### Connect with me :
 <p>
-  <a href="https://linkedin.com/in/TON-PROFIL" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  <a href="https://X.com/Yannick72659O" target="[_blan](https://x.com/Yannick72659O)k">
+    <img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white" />
   </a>
-  <a href="https://github.com/TON-PSEUDO" target="_blank">
+  <a href="https://github.com/Batman5227" target="https://github.com/batman5227/batman5227">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
