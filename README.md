@@ -1,10 +1,11 @@
-# Salut 👋 je suis Yannick
+# Salut 👋 je suis Yannick OUEDRAOGO
 
-Développeur Full-Stack chez Gurren Software
+Un jeune développeur Full-Stack
 
-Je travaille sur KARGO et Layoros, deux plateformes pour le marché africain
+Je suis passionner j'aime faire des recherches et augmenter mon savoir, je souhaite savoir
+faire plusieurs trucs differerents
 
-Rattaché à l'Université Aube Nouvelle, Département High-Tech
+J'ai eu a apprendre plusieurs langage de programmation que voici  
 
 ## Stack
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
