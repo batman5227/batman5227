@@ -1,47 +1,106 @@
-<p align="left">
-  <b>Yannick</b> / <code>README.md</code>
-</p>
+<h1 align="center">
+Hi 👋 I'm OUEDRAOGO Dassamssomsida Beauzely Yannick
+</h1>
 
-<h1 align="center">Salut 👋, je me nomme OUEDRAOGO Dassamssomsida Beauzely Yannick</h1>
+<h3 align="center">
+Full Stack Developer • Flutter • .NET • Next.js
+</h3>
 
 <p align="center">
-  🚀 <b>Développeur Full-Stack</b> | Passionné par la construction de plateformes solides et bien pensées. Ouvert à la collaboration sur des projets web innovants
+
+Building modern mobile & cloud applications.
+
 </p>
 
 ---
 
-- 📗 En cours d'apprentissage : **Dart & animations WebGL**
-- 💼 J'ai récemment travaillé sur : **KARGO, Layoros** (Gurren Software)
-- 💬 Demandez-moi à propos de : **.NET/C# (Clean Architecture, DDD, CQRS), Vue/Nuxt**
-- 📫 Comment me contacter : [yannickouedraogo625@gmail.com](yannickouedraogo625@gmail.com)
+## 🚀 Featured Projects
 
-### Connect with me :
-<p>
-  <a href="https://X.com/Yannick72659O" target="[_blan](https://x.com/Yannick72659O)k">
-    <img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white" />
-  </a>
-  <a href="https://github.com/Batman5227" target="https://github.com/batman5227/batman5227">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
+### 🚚 Layoros
+
+A modern logistics platform built with Flutter and Next.js.
+
+- Authentication
+- Clean Architecture
+- REST API
+- Cloudflare Turnstile
+- Responsive UI
+
+---
+
+### 📦 Kargo
+
+Microservices delivery platform built with .NET.
+
+- CQRS
+- DDD
+- PostgreSQL
+- RabbitMQ
+- Docker
+- Clean Architecture
+
+---
+
+## 🛠 Tech Stack
+
+### Mobile
+
+![Flutter](https://skillicons.dev/icons?i=flutter,dart)
+
+### Backend
+
+![Backend](https://skillicons.dev/icons?i=dotnet,nodejs)
+
+### Frontend
+
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,html,css,php,laravel)
+
+### Database
+
+![Database](https://skillicons.dev/icons?i=postgres,mysql)
+
+### DevOps
+
+![DevOps](https://skillicons.dev/icons?i=docker,git,github,linux)
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=batman5227&theme=tokyonight"/>
+
 </p>
 
-### Languages and Tools :
-<p>
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Blade-FF2D20?style=flat&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Rider-000000?style=flat&logo=rider&logoColor=white" />
+---
+
+## 🏆 Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=batman5227&theme=tokyonight&margin-w=15"/>
+
+</p>
+
+---
+
+## 📊 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=batman5227&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🌎 Connect
+
+<p align="left">
+
+<a href="https://github.com/batman5227">
+GitHub
+</a>
+
 </p>
