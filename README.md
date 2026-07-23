@@ -67,6 +67,10 @@ Microservices delivery platform built with .NET.
 
 ![IDE](https://skillicons.dev/icons?i=visualstudio,rider,vscode,android-studio)
 
+### Design
+
+![Design](https://skillicons.dev/icons?i=figma)
+
 ---
 
 ## 🔥 GitHub Streak
