@@ -2,7 +2,7 @@
   <b>Yannick</b> / <code>README.md</code>
 </p>
 
-<h1 align="center">Salut 👋, je suis Yannick</h1>
+<h1 align="center">Salut 👋, je me nomme OUEDRAOGO Dassamssomsida Beauzely Yannick</h1>
 
 <p align="center">
   🚀 <b>Développeur Full-Stack</b> | Passionné par la construction de plateformes solides et bien pensées. Ouvert à la collaboration sur des projets web innovants
