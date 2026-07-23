@@ -41,7 +41,7 @@ Microservices delivery platform built with .NET.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Skills
 
 ### Mobile
 
@@ -49,11 +49,11 @@ Microservices delivery platform built with .NET.
 
 ### Backend
 
-![Backend](https://skillicons.dev/icons?i=dotnet,nodejs)
+![Backend](https://skillicons.dev/icons?i=dotnet,nodejs,php,C#)
 
 ### Frontend
 
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,html,css,php,laravel)
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,html,css)
 
 ### Database
 
@@ -62,6 +62,10 @@ Microservices delivery platform built with .NET.
 ### DevOps
 
 ![DevOps](https://skillicons.dev/icons?i=docker,git,github,linux)
+
+### Stack
+
+![Stack](https://skillicons.dev/icons?i=androidstudio,jetbrains,vscode)
 
 ---
 
