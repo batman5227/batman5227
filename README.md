@@ -65,7 +65,7 @@ Microservices delivery platform built with .NET.
 
 ### Stack
 
-![Stack](https://skillicons.dev/icons?i=visualstudiocode,rider,vscode,androidstudio)
+![Stack](https://skillicons.dev/icons?i=visualstudio,rider,vscode,androidstudio)
 
 ---
 
