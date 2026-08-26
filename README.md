@@ -65,11 +65,11 @@ Microservices delivery platform built with .NET.
 
 ### IDE
 
-![IDE](https://skillicons.dev/icons?i=visualstudio,rider,vscode,android-studio)
+![IDE](https://skillicons.dev/icons?i=visualstudio,rider,vscode,androidstudio)
 
 ### Design
 
-![Design](https://skillicons.dev/icons?i=figma)
+![Design](https://skillicons.dev/icons?i=figma,photoshop)
 
 ---
 
